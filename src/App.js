@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import styled from 'styled-components';
+// import styled from 'react-emotion';
+import styled from 'styled-components/no-tags';
 
 class App extends Component {
   render() {
